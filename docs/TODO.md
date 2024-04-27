@@ -15,4 +15,5 @@
 - [x] Routing/image page (parallel route)
 - [x] Analytics (posthog)
 - [x] Delete button (w/ Server Actions)
-- [ ] Ratelimiting (upstash)
+- [x] Ratelimiting (upstash)
+- [x] lock down uploads
